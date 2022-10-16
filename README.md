@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bikashgupta787
 - 👀 I’m interested in technology and science
 - 🌱 I’m currently learning latest technologies based on ai/ml
-- 📫 How to reach me - bikashgupta@gmail.com
+- 📫 How to reach me - bikashgupta787@gmail.com
 
 <!---
 bikashgupta787/bikashgupta787 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
