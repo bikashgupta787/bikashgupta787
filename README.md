@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- 👨‍💻 All of my projects are available at [Github Portfolio](Github Portfolio)
+- 👨‍💻 All of my projects are available at [Github Portfolio]
 
 - 📫 How to reach me **bikashgupta787@gmail.com**
 
