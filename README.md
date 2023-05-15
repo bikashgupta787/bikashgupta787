@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bikashgupta787@gmail.com**
 
-- ⚡ Fun fact **I am a programmer, which means my biggest fear is being trapped in an infinite loop 😴.**
+- ⚡ Fun fact **I am a programmer, and my biggest fear is being trapped in an infinite loop 😴.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
