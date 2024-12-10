@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bikash</h1>
 <h3 align="center">A SELF MOTIVATED AND DEDICATED ANDROID TECH GEEK</h3>
 
-- 🔭 I’m currently working on [Android Application Development]
+- 🔭 I’m currently working as an Andriod Developer
 
-- 🌱 I’m currently learning **Android Dev, Kotlin, Firebase**
+- 🌱 I’m currently learning **Android Dev, Kotlin, Firebase, Compose**
 
 - 👯 I’m looking to collaborate on **Android Projects**
-
-- 👨‍💻 All of my projects are available at [Github Portfolio]
 
 - 📫 How to reach me **bikashgupta787@gmail.com**
 
